@@ -240,7 +240,7 @@ A fórmula utilizada foi:
 
 ```python
 comprometimento_renda = (loan_amnt / person_income) * 100
-
+```
 Dessa forma, não houve risco de divisão por zero na criação da nova variável.
 ## 🔧 6. Preparação dos Dados para Modelagem
 Antes do treinamento dos modelos, foram realizadas as etapas de preparação da base.
